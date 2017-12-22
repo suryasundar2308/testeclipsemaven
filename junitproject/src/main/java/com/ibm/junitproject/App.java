@@ -14,5 +14,6 @@ public class App
     	System.out.println(StringUtils.deleteWhitespace("He ll o w orld"));
         System.out.println( "Hello World!" );
         System.out.println("Gokul");
+        System.out.println("SURYA");
     }
 }
